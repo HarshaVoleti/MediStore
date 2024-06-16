@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56958658169",
+    "project_id": "medistore-5d38d",
+    "storage_bucket": "medistore-5d38d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56958658169:android:9b31b583b919a5633c56a8",
+        "android_client_info": {
+          "package_name": "com.example.medistore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOkTDc5_wvq0O662HwMVfI7ct6_7gssdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
